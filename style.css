@@ -104,3 +104,10 @@ input:checked + .slider:before { transform: translateX(22px); }
   background: #1f618d;
   transform: translateY(-1px);
 }
+footer {
+  font-size: 14px;
+  color: #aaa;
+  border-top: 1px solid #444;
+  margin-top: 40px;
+  padding-top: 10px;
+}
