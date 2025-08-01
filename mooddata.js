@@ -8,7 +8,7 @@ const moods = {
   sad:            { color:"#34495e", emoji:"😢", playlist:"https://open.spotify.com/playlist/0XaVOCiMsOVZ3fFQsmiZ54?si=kur_5f3wSuydZs6XhD9Pkg&pi=wbf-w4y1QgmEN" },
   motivation:     { color:"#2c3e50", emoji:"💪", playlist:"https://open.spotify.com/playlist/78Suoigk80gI9mI9z5tYl8?si=RIKwfrV6Rvm2oz6OFD6ZiA&pi=F_G4xntPSLeIx" },
   focus:          { color:"#1abc9c", emoji:"🧠", playlist:"https://open.spotify.com/playlist/6bnfXsKx2VA8Mx8kheMuhj" },
-  lofi:           { color:"#7f8c8d", emoji:"🛋️", playlist:"https://open.spotify.com/playlist/6bnfXsKx2VA8Mx8kheMuhj" },
+  sleep:           { color:"#7f8c8d", emoji:"😴", playlist:"https://open.spotify.com/playlist/37i9dQZF1DWZd79rJ6a7lp?si=ekG8BvClRRW7Ow4z0yRZgw&pi=ksfZnOpHQOuf5" },
   gospelHits:     { color:"#27ae60", emoji:"🎵", playlist:"https://open.spotify.com/playlist/6lFNiwRFah3b0mE9t50PjJ?si=HkqtFH6kS9KrwhYlbwDHxw" },
   afroPop:        { color:"#e67e22", emoji:"🔥", playlist:"https://open.spotify.com/playlist/37i9dQZF1DWYs2pvwxWA7l?si=KzqA9oHZSLiheSZMb3mw1w&pi=Pc3hFdt2RMqds" },
   drill:          { color:"#8e44ad", emoji:"⚡", playlist:"https://open.spotify.com/playlist/1yjJHl0gxPRNBGQAhIczEj?si=0YdgSqTlTdmCWZAu-nDy6Q&pi=es002BizS_SVs" },
