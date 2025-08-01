@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width,initial-scale=1.0"/>
+  <title>Moodify 🎧</title>
+  <link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+  <div class="container">
+    <h1>Moodify 🎧</h1>
+    <div class="toggle-container">
+      <label class="switch">
+        <input type="checkbox" id="theme-toggle">
+        <span class="slider round"></span>
+      </label>
+      <span id="mode-label">🌙</span>
+    </div>
+    <div id="mood-list" class="mood-list"></div>
+    <ul id="song-list" class="song-list"></ul>
+  </div>
+  <script src="mooddata.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>

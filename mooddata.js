@@ -1,0 +1,22 @@
+const moods = {
+  afrobeat:        { color:"#f39c12", emoji:"🎧", playlist:"https://open.spotify.com/playlist/32HovauslOCYTENgeZlk6M" },
+  gospel:         { color:"#27ae60", emoji:"🙏", playlist:"https://open.spotify.com/playlist/4XghvDfM1IIBAbH8A5zVJw" },
+  love:           { color:"#e84393", emoji:"❤️", playlist:"https://open.spotify.com/playlist/4avIhC22PNNeQL0aXbIvdS" },
+  throwback:      { color:"#d35400", emoji:"🕰️", playlist:"https://open.spotify.com/playlist/5F4ty7AdNVnAaQ3cnNVyjR" },
+  chill:          { color:"#3498db", emoji:"😌", playlist:"https://open.spotify.com/playlist/6bnfXsKx2VA8Mx8kheMuhj" },
+  party:          { color:"#f1c40f", emoji:"🎉", playlist:"https://open.spotify.com/playlist/5myeBzohhCVewaK2Thqmo5" },
+  sad:            { color:"#34495e", emoji:"😢", playlist:"https://open.spotify.com/playlist/1tX9jfDdDqTE86QuO9MIEA" },
+  motivation:     { color:"#2c3e50", emoji:"💪", playlist:"https://open.spotify.com/playlist/6xpxq9j19UvwhGmvdD4WMT" },
+  focus:          { color:"#1abc9c", emoji:"🧠", playlist:"https://open.spotify.com/playlist/6bnfXsKx2VA8Mx8kheMuhj" },
+  lofi:           { color:"#7f8c8d", emoji:"🛋️", playlist:"https://open.spotify.com/playlist/6bnfXsKx2VA8Mx8kheMuhj" },
+  gospelHits:     { color:"#27ae60", emoji:"🎵", playlist:"https://open.spotify.com/playlist/6g9Hb9kpSH7xFfTel6EQBg" },
+  afroPop:        { color:"#e67e22", emoji:"🔥", playlist:"https://open.spotify.com/playlist/32HovauslOCYTENgeZlk6M" },
+  drill:          { color:"#8e44ad", emoji:"⚡", playlist:"https://open.spotify.com/playlist/5F4ty7AdNVnAaQ3cnNVyjR" },
+  heartbroken:    { color:"#c0392b", emoji:"💔", playlist:"https://open.spotify.com/playlist/1tX9jfDdDqTE86QuO9MIEA" },
+  energetic:      { color:"#e74c3c", emoji:"⚡", playlist:"https://open.spotify.com/playlist/5myeBzohhCVewaK2Thqmo5" },
+  study:          { color:"#95a5a6", emoji:"📚", playlist:"https://open.spotify.com/playlist/6bnfXsKx2VA8Mx8kheMuhj" },
+  nostalgic:      { color:"#b2bec3", emoji:"🗓️", playlist:"https://open.spotify.com/playlist/4avIhC22PNNeQL0aXbIvdS" },
+  romantic:       { color:"#e84393", emoji:"💘", playlist:"https://open.spotify.com/playlist/5F4ty7AdNVnAaQ3cnNVyjR" },
+  rainyDay:       { color:"#0984e3", emoji:"🌧️", playlist:"https://open.spotify.com/playlist/6bnfXsKx2VA8Mx8kheMuhj" },
+  roadTrip:       { color:"#d35400", emoji:"🚗", playlist:"https://open.spotify.com/playlist/37i9dQZF1DX2MyUCsl25eb" }
+};
