@@ -17,6 +17,6 @@ const moods = {
   study:          { color:"#95a5a6", emoji:"📚", playlist:"https://open.spotify.com/playlist/3jvd7h6ZwgpmpJkUxciyRd?si=er0fcTA3Sti-HWsDVBKAUA" },
   nostalgic:      { color:"#b2bec3", emoji:"🗓️", playlist:"https://open.spotify.com/playlist/7fOJBJUoFNnqvs4ISEKWwh?si=1fNMXhz8S_CgxGt9IjmmYw" },
   romantic:       { color:"#e84393", emoji:"💘", playlist:"https://open.spotify.com/playlist/4cJ8qUzt5CSTE9XN5uK2z2?si=fAwL20o5Tlmz5vvRlbS4-g&pi=gU-kkuyGSleRO" },
-  rainyDay:       { color:"#0984e3", emoji:"🌧️", playlist:"https://open.spotify.com/playlist/6bnfXsKx2VA8Mx8kheMuhj" },
+  rainyDay:       { color:"#0984e3", emoji:"🌧️", playlist:"https://open.spotify.com/playlist/3r82Jvzw3SSGKKiKf3dXMM?si=diyLFmDiSP6E5Pz3GOs8HQ&pi=nkY_fxb4T_-fA" },
   roadTrip:       { color:"#d35400", emoji:"🚗", playlist:"https://open.spotify.com/playlist/37i9dQZF1DX2MyUCsl25eb" }
 };
