@@ -12,7 +12,7 @@ const moods = {
   gospelHits:     { color:"#27ae60", emoji:"🎵", playlist:"https://open.spotify.com/playlist/6lFNiwRFah3b0mE9t50PjJ?si=HkqtFH6kS9KrwhYlbwDHxw" },
   afroPop:        { color:"#e67e22", emoji:"🔥", playlist:"https://open.spotify.com/playlist/37i9dQZF1DWYs2pvwxWA7l?si=KzqA9oHZSLiheSZMb3mw1w&pi=Pc3hFdt2RMqds" },
   drill:          { color:"#8e44ad", emoji:"⚡", playlist:"https://open.spotify.com/playlist/1yjJHl0gxPRNBGQAhIczEj?si=0YdgSqTlTdmCWZAu-nDy6Q&pi=es002BizS_SVs" },
-  heartbroken:    { color:"#c0392b", emoji:"💔", playlist:"https://open.spotify.com/playlist/2tMMWbphS8ACSRsET2VXNK?si=d0HpEsHOSUqvlcfVhAaDug&pi=50T7W80MSyWzG" },
+  heartbroken:    { color:"#c0392b", emoji:"💔", playlist:"https://open.spotify.com/playlist/2tMMWbphS8ACSRsET2VXNK?si=9ks7msh_RRS6xMVyoMIoCQ" },
   energetic:      { color:"#e74c3c", emoji:"⚡", playlist:"https://open.spotify.com/playlist/37i9dQZF1EIeEZPgsd7pko?si=KbqaFmcwSBiUX2oHkc9Ovg&pi=aoJ85JK4TgGnR" },
   study:          { color:"#95a5a6", emoji:"📚", playlist:"https://open.spotify.com/playlist/3jvd7h6ZwgpmpJkUxciyRd?si=er0fcTA3Sti-HWsDVBKAUA" },
   nostalgic:      { color:"#b2bec3", emoji:"🗓️", playlist:"https://open.spotify.com/playlist/7fOJBJUoFNnqvs4ISEKWwh?si=1fNMXhz8S_CgxGt9IjmmYw" },
